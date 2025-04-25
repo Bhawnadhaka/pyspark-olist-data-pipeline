@@ -25,7 +25,7 @@ This project utilizes the Olist Brazilian E-commerce dataset, which contains inf
 
 ### Database Schema
 
-![Olist Database Schema](https://via.placeholder.com/800x400?text=Olist+Database+Schema)
+https://github.com/Bhawnadhaka/pyspark-olist-data-pipeline/blob/main/Screenshot%202025-04-25%20200719.png
 
 
 
